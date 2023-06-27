@@ -1,0 +1,12 @@
+C:\profitional\dotnet\mango\Mango.MessageBus\bin\Release\net7.0\Mango.MessageBus.deps.json
+C:\profitional\dotnet\mango\Mango.MessageBus\bin\Release\net7.0\Mango.MessageBus.dll
+C:\profitional\dotnet\mango\Mango.MessageBus\bin\Release\net7.0\Mango.MessageBus.pdb
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\Mango.MessageBus.csproj.AssemblyReference.cache
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\Mango.MessageBus.AssemblyInfoInputs.cache
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\Mango.MessageBus.AssemblyInfo.cs
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\Mango.MessageBus.dll
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\refint\Mango.MessageBus.dll
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\Mango.MessageBus.pdb
+C:\profitional\dotnet\mango\Mango.MessageBus\obj\Release\net7.0\ref\Mango.MessageBus.dll

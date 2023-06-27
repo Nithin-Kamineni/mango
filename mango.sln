@@ -21,13 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.ProductAPI",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.ShoppingCartAPI", "Mango.Services.ShoppingCartAPI\Mango.Services.ShoppingCartAPI.csproj", "{AD14240A-171C-437C-9DBD-C653FC942944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.MessageBus", "Mango.MessageBus\Mango.MessageBus.csproj", "{7136E3AA-CC75-48FC-8A3C-D3C503030D37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.MessageBus", "Mango.MessageBus\Mango.MessageBus.csproj", "{7136E3AA-CC75-48FC-8A3C-D3C503030D37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.EmailAPI", "Mango.Services.EmailAPI\Mango.Services.EmailAPI.csproj", "{E3934AEE-DA81-4F47-AE83-7C1B3E342CAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.EmailAPI", "Mango.Services.EmailAPI\Mango.Services.EmailAPI.csproj", "{E3934AEE-DA81-4F47-AE83-7C1B3E342CAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.OrderAPI", "Mango.Services.OrderAPI\Mango.Services.OrderAPI.csproj", "{1CCC6930-B341-4748-AFA5-5A8C96E3D828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.OrderAPI", "Mango.Services.OrderAPI\Mango.Services.OrderAPI.csproj", "{1CCC6930-B341-4748-AFA5-5A8C96E3D828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.RewardAPI", "Mango.Services.RewardAPI\Mango.Services.RewardAPI.csproj", "{4EFA3466-8309-44E3-AB1F-BAD118A37EB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Services.RewardAPI", "Mango.Services.RewardAPI\Mango.Services.RewardAPI.csproj", "{4EFA3466-8309-44E3-AB1F-BAD118A37EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.GatewaySolution", "Mango.GatewaySolution\Mango.GatewaySolution.csproj", "{F7092AFD-DF06-4B83-B8C9-32AE56EDD472}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,10 @@ Global
 		{4EFA3466-8309-44E3-AB1F-BAD118A37EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EFA3466-8309-44E3-AB1F-BAD118A37EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EFA3466-8309-44E3-AB1F-BAD118A37EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7092AFD-DF06-4B83-B8C9-32AE56EDD472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7092AFD-DF06-4B83-B8C9-32AE56EDD472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7092AFD-DF06-4B83-B8C9-32AE56EDD472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7092AFD-DF06-4B83-B8C9-32AE56EDD472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +91,7 @@ Global
 		{E3934AEE-DA81-4F47-AE83-7C1B3E342CAB} = {7C37D5E5-AFCE-433A-8C26-0864FD67BE47}
 		{1CCC6930-B341-4748-AFA5-5A8C96E3D828} = {7C37D5E5-AFCE-433A-8C26-0864FD67BE47}
 		{4EFA3466-8309-44E3-AB1F-BAD118A37EB1} = {7C37D5E5-AFCE-433A-8C26-0864FD67BE47}
+		{F7092AFD-DF06-4B83-B8C9-32AE56EDD472} = {6D8CFCD8-3DFE-41FE-A73B-C215E65BC9EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0CE1222E-FC17-4C74-A115-C1C103D7DC5B}
