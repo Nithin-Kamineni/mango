@@ -3,6 +3,7 @@
 Preview - https://mangowebmicroservice.azurewebsites.net/
 
 OpenAPI SwaggerUI:
+
 Authentication API: https://mangoservicesauthapi-dotnet.azurewebsites.net/index.html
 
 Coupon API: https://mangoservicescouponapi-dotnet.azurewebsites.net/index.html
