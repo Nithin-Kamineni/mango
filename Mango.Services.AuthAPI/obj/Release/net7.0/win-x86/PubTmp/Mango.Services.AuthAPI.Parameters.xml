@@ -3,4 +3,7 @@
   <parameter name="IIS Web Application Name" description="" value="MangoServicesAuthAPI-dotnet" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\profitional\\dotnet\\mango\\Mango\.Services\.AuthAPI\\obj\\Release\\net7\.0\\win-x86\\PubTmp\\Out\\$" />
   </parameter>
+  <parameter name="Mango.Services.AuthAPI.Data.AppDbContext" description="" value="Server=tcp:mangomicroservicedotnet.database.windows.net,1433;Initial Catalog=MangoAuthAPI;Persist Security Info=False;User ID=sqladmin;Password=Admin123*;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\profitional\\dotnet\\mango\\Mango\.Services\.AuthAPI\\obj\\Release\\net7\.0\\win-x86\\PubTmp\\EFSQLScripts\\Mango\.Services\.AuthAPI\.Data\.AppDbContext\.sql$" />
+  </parameter>
 </parameters>

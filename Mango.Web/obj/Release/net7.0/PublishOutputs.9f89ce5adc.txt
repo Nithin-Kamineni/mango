@@ -1,0 +1,14 @@
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Mango.Web.exe
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Mango.Web.dll
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Mango.Web.deps.json
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Mango.Web.runtimeconfig.json
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Mango.Web.pdb
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\IdentityModel.dll
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\profitional\dotnet\mango\Mango.Web\obj\Release\net7.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll

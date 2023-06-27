@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "nSlrvUU+HyqjWEGCrZVPTyatZz5lcHVH2l3tuJW+eVM=",
+  "Source": "Mango.Services.ProductAPI",
+  "BasePath": "_content/Mango.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mango.Services.ProductAPI\\wwwroot",
+      "Source": "Mango.Services.ProductAPI",
+      "ContentRoot": "C:\\profitional\\dotnet\\mango\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\profitional\\dotnet\\mango\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\17.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\profitional\\dotnet\\mango\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/17.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\17.jpg"
+    },
+    {
+      "Identity": "C:\\profitional\\dotnet\\mango\\Mango.Services.ProductAPI\\wwwroot\\ProductImages\\18.jpg",
+      "SourceId": "Mango.Services.ProductAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\profitional\\dotnet\\mango\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "RelativePath": "ProductImages/18.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImages\\18.jpg"
+    }
+  ]
+}

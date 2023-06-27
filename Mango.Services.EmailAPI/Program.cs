@@ -8,10 +8,20 @@ using Microsoft.Extensions.Configuration;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<AppDbContext>(option =>
+if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production")
 {
-    option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-});
+    builder.Services.AddDbContext<AppDbContext>(option =>
+    {
+        option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionProduction"));
+    });
+}
+else
+{
+    builder.Services.AddDbContext<AppDbContext>(option =>
+    {
+        option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    });
+}
 
 
 var optionBuilder = new DbContextOptionsBuilder<AppDbContext>();

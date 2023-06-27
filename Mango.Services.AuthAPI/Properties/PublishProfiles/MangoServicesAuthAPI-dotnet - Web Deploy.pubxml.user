@@ -7,7 +7,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9uPVixDtuUa2Pu/LlY9vswAAAAACAAAAAAAQZgAAAAEAACAAAABV0T2HKVG/+Y1TBl0shTRzeKg5QNNeciGza5fr7lznGQAAAAAOgAAAAAIAACAAAAABT6i8bXQbdIRzxFdrCJ89wa/jvIR2qjuGwOwRcUh2MIAAAADVflMlSRer8CQBMklBIbZCsEdtsgXJMwSVrS37bO6O2ildFQ+moi8Luxc4WygfuQMIPr2oYK66A/0WE9/EqqfVWhFTZZsvNzBg5U36bItzgrVoQjhZgHW8pjzzzRlOcGnY8+EpzmaVcdmzUFHLX/vnE6XiUg2W4S6zjrjK8mplGEAAAAAGssiS3V+6Ti7/mldi1fSQZ+uSn3ntCaFbjUEiWby1F0cSEHHF/n2cvy2aZs5aguC34tDaSYN3u20bWbHJQmrx</EncryptedPassword>
-    <History>True|2023-06-27T06:01:53.8608627Z;True|2023-06-27T01:55:00.3332115-04:00;True|2023-06-27T01:51:00.4034981-04:00;</History>
+    <History>True|2023-06-27T18:12:57.3429615Z;True|2023-06-27T13:52:05.2995242-04:00;True|2023-06-27T13:46:56.0297167-04:00;True|2023-06-27T13:31:35.8547235-04:00;True|2023-06-27T02:01:53.8608627-04:00;True|2023-06-27T01:55:00.3332115-04:00;True|2023-06-27T01:51:00.4034981-04:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Mango.Services.AuthAPI.Data.AppDbContext">
+      <Value>Server=tcp:mangomicroservicedotnet.database.windows.net,1433%3bInitial Catalog=MangoAuthAPI%3bPersist Security Info=False%3bUser ID=sqladmin%3bPassword=Admin123%2a%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
 </Project>
